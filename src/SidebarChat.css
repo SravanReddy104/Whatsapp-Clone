@@ -1,0 +1,20 @@
+.sidebar__message{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-bottom: 1px solid gray;
+}
+
+.message__info{
+    margin-left: 10px;
+   
+}
+
+.sidebar__message:hover{
+    color: #2f7fae;
+}
+.message__info > h3{
+    font-size: 19px;
+    margin-bottom: 0%;
+    
+}
